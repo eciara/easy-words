@@ -1,0 +1,2 @@
+# easy-words
+Agular -> serwisy
